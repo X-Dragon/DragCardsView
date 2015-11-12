@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <declare-styleable name="DragCardsView">
+        <attr name="SwipeFlingStyle" format="reference" />
+        <attr name="rotation_degrees" format="float" />
+        <attr name="min_adapter_stack" format="integer" />
+        <attr name="max_visible" format="integer" />
+        <attr name="cards_shift" format="integer" />
+        <attr name="cards_width" format="dimension" />
+        <attr name="cards_height" format="dimension" />
+    </declare-styleable>
+
+</resources>

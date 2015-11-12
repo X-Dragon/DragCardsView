@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dragon.dragcardsview.MainActivity" >
+
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        >
+
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="38dp"
+            android:background="@drawable/profile_dislike_normal"
+            />
+
+        <Button
+            android:id="@+id/btn2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignBaseline="@+id/btn1"
+            android:layout_alignBottom="@+id/btn1"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="36dp"
+            android:background="@drawable/profile_like_normal"
+            
+            />
+
+    </RelativeLayout>
+    
+    <com.dragon.dragcardsview.DragCardsView
+        android:id="@+id/dragCardsView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#00ffffff"
+        app:max_visible="4"
+        app:rotation_degrees="15"
+        app:cards_shift="10"
+        app:cards_width="300dp"
+        app:cards_height="330dp"
+         >
+    </com.dragon.dragcardsview.DragCardsView>
+
+</RelativeLayout>

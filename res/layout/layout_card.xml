@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <com.dragon.dragcardsview.AntiAliasView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="300dp"
+        android:layout_height="330dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" 
+        android:layout_marginTop="10dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/rounded_half_corners_top" >
+
+            <com.dragon.dragcardsview.MyImageView
+                android:id="@+id/iv_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                 />
+
+            <ImageView
+                android:id="@+id/iv_dislike"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/swipe_dislike_button"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/iv_like"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/swipe_like_button"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/rounded_half_corners_bottom" >
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2px"
+                android:layout_alignParentTop="true"
+                android:background="#ff000000" />
+        </RelativeLayout>
+    </com.dragon.dragcardsview.AntiAliasView>
+

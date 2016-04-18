@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/res/merged/debug/drawable/rounded_half_corners_bottom.xml",
+        "source": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/drawable/rounded_half_corners_bottom.xml"
+    },
+    {
+        "merged": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/res/merged/debug/drawable/rounded_half_corners_top.xml",
+        "source": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/drawable/rounded_half_corners_top.xml"
+    }
+]

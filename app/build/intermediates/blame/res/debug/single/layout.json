@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/res/merged/debug/layout/layout_card.xml",
+        "source": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/layout/layout_card.xml"
+    }
+]

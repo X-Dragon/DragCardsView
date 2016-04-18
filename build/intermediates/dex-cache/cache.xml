@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-20.0.0_de514705a6d5c65a204db77ad011d142cee0479e.jar" />
+    </item>
+    <item
+        jar="/Users/maotou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_5596a778439562784131e3fdbf812cb8d341edd5.jar" />
+    </item>
+    <item
+        jar="/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_487859442bf14338cea9cdfd0d4b13003a08e7d3.jar" />
+    </item>
+
+</items>

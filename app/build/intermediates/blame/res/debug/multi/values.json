@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 57,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 55,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 52,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 50,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 50,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 52,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1158
+                },
+                "from": {
+                    "file": "/Users/maotou/AndroidStudioProjects/DragCardsView-master1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
